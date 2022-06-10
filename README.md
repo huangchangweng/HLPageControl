@@ -12,6 +12,7 @@ pod 'HLPageControl', '1.0.0'
 ✅ 支持在xib、storyboard中自定义属性
 
 ✅ 适配iOS14
+![image](https://github.com/huangchangweng/HLPageControl/blob/main/QQ20220610-104536-HD.gif)
 
 基本使用方法:<p>
 
