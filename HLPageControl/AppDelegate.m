@@ -6,6 +6,7 @@
 //
 
 #import "AppDelegate.h"
+#import "HLPageControl.h"
 
 @interface AppDelegate ()
 
@@ -15,7 +16,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    // 全局设置HLPageControl样式
+//    [HLPageControl appearance].selectedDotWidth = 20;
+    
     return YES;
 }
 
